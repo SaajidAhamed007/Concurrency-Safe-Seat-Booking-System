@@ -146,7 +146,7 @@ frontend/
 ## Running the Project
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SaajidAhamed007/Concurrency-Safe-Seat-Booking-System.git
 
 cd backend
 npm install
